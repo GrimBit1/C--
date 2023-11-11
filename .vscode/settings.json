@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "COMMIT_EDITMSG": "javascript",
+        "*.pug": "jade",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
